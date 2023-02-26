@@ -1,5 +1,5 @@
 # Real-Time Path Planning
-This repository contains code to implement Real Time-RRT* on a point robot which is the first real-time variant of RRT* and is capable of path planning in an environment with dynamic obstacles and changing goal position. It is a sampling based rewiring approaches to solve real-time path planning problems for a holonomic robot under the presence of dynamic obstacles.
+This repository contains code to implement Real Time-RRT* on a point robot that is the first real-time variant of RRT* and is capable of path planning in an environment with dynamic obstacles and changing goal position. It is a sampling based rewiring approaches to solve real-time path planning problems for a holonomic robot under the presence of dynamic obstacles.
 <p align="center">
   <img src="https://github.com/AbhijitMahalle/real_time_path_planning/blob/master/giphy.gif" alt="Final Simulation Result"/>
 </p>
